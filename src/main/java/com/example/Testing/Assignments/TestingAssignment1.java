@@ -35,7 +35,7 @@ public class TestingAssignment1 {
     }
 
     private static void runTestScenario(WebDriver driver, String laptopName) {
-        driver.get("https://www.amazon.com");
+        driver.get("https://www.amazon.in");
 
         try {
             //Select Electronics
